@@ -1,7 +1,7 @@
 # Simple Microservices Ecommerece System
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="diagram.png">
+  <source media="(prefers-color-scheme: dark)" srcset="diagram-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="diagram.png">
   <img src="diagram.png" alt="Simple Microservices Ecommerece System Diagram by Elias Shallouf">
 </picture>
